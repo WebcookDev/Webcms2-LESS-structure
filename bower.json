@@ -1,0 +1,20 @@
+{
+  "name": "Webcms2-LESS-structure",
+  "version": "0.1.0",
+  "homepage": "https://github.com/WebcookDev/Webcms2-LESS-structure",
+  "authors": [
+    "Jakub Šanda <sanda@webcook.cz>"
+  ],
+  "description": "Structure of LESS files for WebCMS2",
+  "keywords": [
+    "LESS",
+    "WebCMS2"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
